@@ -1,8 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:Caviedes;Diego;Andrés;;
-FN:Diego Andrés Caviedes
+FN:Ventas Costa Cervalle
 TEL:+57 3118815967
 EMAIL;TYPE=WORK: ventascosta@cervalle.com
 END:VCARD`;
